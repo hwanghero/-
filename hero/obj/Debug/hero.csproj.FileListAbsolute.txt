@@ -1,0 +1,56 @@
+C:\Users\MTPC4-06\source\repos\hero\hero\bin\Debug\hero.exe.config
+C:\Users\MTPC4-06\source\repos\hero\hero\bin\Debug\hero.exe
+C:\Users\MTPC4-06\source\repos\hero\hero\bin\Debug\hero.pdb
+C:\Users\MTPC4-06\source\repos\hero\hero\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.Form1.resources
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.Properties.Resources.resources
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.csproj.CopyComplete
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.exe
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.pdb
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.Form2.resources
+C:\Users\MTPC4-06\source\repos\hero\hero\obj\Debug\hero.Form3.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\bin\Debug\hero.exe.config
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\bin\Debug\hero.exe
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\bin\Debug\hero.pdb
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\bin\Debug\Google.Protobuf.dll
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.Form1.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.Form2.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.Form3.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.Properties.Resources.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.csproj.CopyComplete
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.exe
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\obj\Debug\hero.pdb
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\hero.exe.config
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\hero.exe
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\hero.pdb
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\MetroFramework.dll
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\Renci.SshNet.dll
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\Google.Protobuf.dll
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\MySql.Data.xml
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\bin\Debug\Renci.SshNet.xml
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form1.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form2.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form3.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form4.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form5.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form6.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form7.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Properties.Resources.resources
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.csproj.CopyComplete
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.exe
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.pdb
+C:\Users\MTPC4-06\Documents\카카오톡 받은 파일\hero\hero\hero\obj\Debug\hero.Form8.resources
+C:\Users\owner\Desktop\ok-man\hero\hero\obj\Debug\hero.exe
+C:\Users\owner\Desktop\ok-man\hero\hero\obj\Debug\hero.pdb
